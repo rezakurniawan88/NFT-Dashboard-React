@@ -1,0 +1,10 @@
+table > tr > th {
+    color: #615C7E;
+    opacity: 0.6;
+}
+
+table > tr > th,
+table > tr > td {
+    padding: 0.45rem;
+    text-align: center;
+}
